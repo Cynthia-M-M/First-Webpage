@@ -29,3 +29,42 @@ First-Webpage/
 │
 ├── index.html      # Main HTML source code
 └── README.md       # Project documentation
+
+---
+
+## 🖥️ How to View the Page
+
+Since this is a static HTML file, you do not need to install any software or servers.
+
+1.  **Clone or Download** this repository.
+2.  Navigate to the folder on your computer.
+3.  **Double-click** the `index.html` file.
+4.  It will open automatically in your default web browser.
+
+---
+
+## 💻 Code Preview
+
+Here is a snippet of the navigation structure used in the project:
+
+```html
+<nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+```
+
+---
+
+## 📄 License
+
+This project was created for educational purposes to learn HTML fundamentals.
+
+```
+
+```
